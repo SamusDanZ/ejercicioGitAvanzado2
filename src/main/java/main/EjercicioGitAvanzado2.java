@@ -12,6 +12,8 @@ public class EjercicioGitAvanzado2 {
         System.out.println("Hola desde DEVELOP");
         System.out.println("rebase commit 1");
         System.out.println("rebase commit 2");
+        System.out.println("primer commit");
+        System.out.println("commit HEAD death");
     }
 
 }
