@@ -9,6 +9,7 @@ public class EjercicioGitAvanzado2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ejercicio GIT avanzado 2");
         System.out.println("quinto commit");
+        System.out.println("Linea master");
         System.out.println("Hola desde DEVELOP");
         System.out.println("rebase commit 1");
         System.out.println("rebase commit 2");
