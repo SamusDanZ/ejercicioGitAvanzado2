@@ -11,6 +11,7 @@ public class EjercicioGitAvanzado2 {
         System.out.println("quinto commit");
         System.out.println("Hola desde DEVELOP");
         System.out.println("rebase commit 1");
+        System.out.println("rebase commit 2");
     }
 
 }
