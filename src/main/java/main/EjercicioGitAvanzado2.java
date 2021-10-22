@@ -8,7 +8,7 @@ public class EjercicioGitAvanzado2 {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Ejercicio GIT avanzado 2");
-        System.out.println("primer commit");
+        System.out.println("segundo commit");
     }
 
 }
